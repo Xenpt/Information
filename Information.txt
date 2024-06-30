@@ -1,8 +1,9 @@
-All .exe use at your own risk,
-Most should work.. some may not,
+Use at your own risk.
 Copyrighted.. [Do Not Distribute]
 Have fun..
 
 *all in beta versions so not final (yet)*
 
 I am NOT responsible for any damages
+
+Current File Version: 1.0.4 - Beta
